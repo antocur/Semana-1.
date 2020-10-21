@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PetaGRAM</string>
+    <string name="texto_boton_click">Click</string>
+    <string name="texto_titulo">Hola mundo</string>
+    <string name="mensaje">HOLAAAAAA</string>
+    <string name="texto_accion">sapeeeeee</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Pluton</item>
+    </string-array>
+    <string name="titulo_tarjeta">MALISIMO EL CURSO</string>
+</resources>

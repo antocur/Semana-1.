@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#64F1D5</item>
+        <item name="colorPrimaryDark">#098C88</item>
+        <item name="colorAccent">#E8370A</item>
+    </style>
+
+    <style name="MiBotonRaised" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">#DC483D</item>
+        <item name="colorControlHighlight">@color/colorBlanco</item>
+        <item name="android:textColor">@color/colorBlanco</item>
+    </style>
+
+</resources>
